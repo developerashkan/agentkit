@@ -1,0 +1,6 @@
+{
+  "name": "example-skill",
+  "version": "0.1.0",
+  "entrypoint": "skills.example.main:run",
+  "description": "Example skill manifest for compatibility"
+}
